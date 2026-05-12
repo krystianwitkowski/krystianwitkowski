@@ -1,16 +1,19 @@
-## Hi there 👋
+## ✨ Fullstack Developer
 
-<!--
-**krystianwitkowski/krystianwitkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Developer with nearly 5 years of experience in Frontend development and create user interfaces.
 
-Here are some ideas to get you started:
+Focused on building solutions that deliver real business value. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am transitioning my career path from Frontend to Backend Developer.
+
+- **2025:** Launched my first product MVP.
+- **Current:** Developing a new platform designed to streamline the recruitment of AI specialists.
+
+### 🛠 Core skills
+- 🚀 **Next.js**
+- ⚛️ **React**
+- 📘 **TypeScript**
+- 🟢 **Node.js**
+- 🐳 **Docker**
+
+### 📩 **You can find me on:** <a href="https://linkedin.com/in/krystianwitkowski" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" valign="middle" /></a>
