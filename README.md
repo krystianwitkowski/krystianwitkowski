@@ -1,6 +1,6 @@
 ## ✨ Fullstack Developer
 
-I am a Software Developer with nearly 5 years of experience in Frontend development and create user interfaces.
+I am a Software Developer with nearly 5 years of experience in Frontend development and creating user interfaces.
 
 Focused on building solutions that deliver real business value. 
 
