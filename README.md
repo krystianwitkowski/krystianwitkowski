@@ -9,11 +9,11 @@ Currently, I am transitioning my career path from Frontend to Backend Developer.
 - **2025:** Launched my first product MVP - Restra (app/website builder)
 - **Current:** Developing a new platform designed to streamline the recruitment of AI specialists.
 
-### 🛠 Core skills
+## 🛠 Core skills
 - 🚀 **Next.js**
 - ⚛️ **React**
 - 📘 **TypeScript**
 - 🟢 **Node.js**
 - 🐳 **Docker**
 
-### 📩 **You can find me on:** <a href="https://linkedin.com/in/krystianwitkowski" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" valign="middle" /></a>
+## 📩 **You can find me on:** <a href="https://linkedin.com/in/krystianwitkowski" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" valign="middle" /></a>
