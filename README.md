@@ -6,7 +6,7 @@ Focused on building solutions that deliver real business value.
 
 Currently, I am transitioning my career path from Frontend to Backend Developer.
 
-- **2025:** Launched my first product MVP.
+- **2025:** Launched my first product MVP - Restra (app/webiste builder)
 - **Current:** Developing a new platform designed to streamline the recruitment of AI specialists.
 
 ### 🛠 Core skills
