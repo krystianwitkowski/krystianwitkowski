@@ -6,8 +6,6 @@ Focused on building solutions that deliver real business value.
 
 Currently, I am transitioning my career path from Frontend to Backend Developer.
 
-- **2025:** Launched my first product MVP - Restra (app/website builder)
-
 ## 🛠 Core skills
 - 🚀 **Next.js**
 - ⚛️ **React**
